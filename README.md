@@ -1,2 +1,3 @@
 # AI ML Projects
- AI & ML
+
+artificial intelligence(AI) and machine learning(ML) projects.
