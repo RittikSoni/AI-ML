@@ -1,2 +1,2 @@
-# AI ML
+# AI ML Projects
  AI & ML
