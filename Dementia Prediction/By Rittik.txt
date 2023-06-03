@@ -1,6 +1,7 @@
+Before running below commands make sure to add all dependencies
 to run >>
 use cmd command
-python -m streamlit.cli run C:\Users\RITTIK\Desktop\‏COLLEGE\MinorProject\tests\dementia_prediction\app.py 
+python -m streamlit.cli run [dir complete path]\app.py 
 OR 
 in same dir use 
 python -m streamlit run app.py
